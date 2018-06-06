@@ -2,7 +2,5 @@
 
 Root page of my documentation.
 
-![My good friend Pete](.gitbook/assets/pete.jpeg)
-
-
+![My good friend-self](.gitbook/assets/me.png)
 
